@@ -16,15 +16,4 @@
                                 
 
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-### Work By
- 
- <table>
-  <tr>
-    <td align="center"><a href="https://github.com/Ajij120386"></a></td>
-   <tr>
-  <table>
 
