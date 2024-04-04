@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div Align="center"><h1>Machine Learning Projects </h1><img alt="GIF" src="01%20Start/resources/a.png"/></div>
 
 
@@ -26,3 +27,6 @@ Contributions are what make the open source community such an amazing place to b
     <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Sharma</b></sub></a><br /><a href="https://github.com/shsarv" title="github"><img src="https://img.shields.io/github/followers/shsarv?style=social"></a> <a href="https://twitter.com/sarveshroli/" title="twitter"><img src="https://img.shields.io/twitter/follow/sarveshroli?label=twitter&style=social"></a></td>
    <tr>
   <table>
+=======
+ In this project, I will be walking through analyzing the problem from collecting data, importing it to a Jupyter notebook, looking for promising attributes, finding out correlations, plotting graphs, creating a pipeline, dealing with missing values and much more. At the end , we present the problem to the real estates company who will use the model for predicting house prices given a set of features.
+>>>>>>> 07b41c10d165fd2f5c508133eb5f5237aaba0083
