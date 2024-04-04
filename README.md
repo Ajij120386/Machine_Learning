@@ -35,11 +35,7 @@
 **Clustering:**<br/>
 • _K-Means_<br/>
   
-**Ensemble:**<br/>
-• _Random Forest_<br/>
-• _Adaptive Boosting (AdaBoost)_<br/>
-• _Extreme Gradient Boosting (XGBoost)_<br/>
-• _Voting (Hard/Soft)_<br/>
+
 
 
 
