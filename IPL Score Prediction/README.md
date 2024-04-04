@@ -1,6 +1,3 @@
-
-
-
 ## Project Overview
 • Created a model that predicts the score (in terms of range) of IPL matches<br/>
 • Optimized Multiple-Linear, Decision Tree, Random Forest, and AdaBoost regression models using GridsearchCV
@@ -10,7 +7,7 @@
 
 ## Resources Used
 • Packages: pandas, numpy, sklearn, matplotlib, seaborn<br/>
-• Dataset by **Shivam Mitra**: https://github.com/codophobia/CricketScorePredictor
+
 
 ## Data Cleaning and Preprocessing
 • **Removing unwanted columns**<br/>
