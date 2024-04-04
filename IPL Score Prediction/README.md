@@ -1,6 +1,3 @@
-
-
-
 ## Project Overview
 • Created a model that predicts the score (in terms of range) of IPL matches<br/>
 • Optimized Multiple-Linear, Decision Tree, Random Forest, and AdaBoost regression models using GridsearchCV
@@ -10,12 +7,11 @@
 
 ## Resources Used
 • Packages: pandas, numpy, sklearn, matplotlib, seaborn<br/>
-• Dataset by **Shivam Mitra**: https://github.com/codophobia/CricketScorePredictor
+
 
 ## Data Cleaning and Preprocessing
 • **Removing unwanted columns**<br/>
-• **Keeping only consistent teams**<br/>
-![ct](readme-resources/consistent_teams.PNG)<br/>
+• **Keeping only consistent teams**<br/>![consistent_teams](https://github.com/Ajij120386/Machine_Learning/assets/66430791/db96f70e-2720-4259-85d9-7a5688187d17)<br/>
 • **Removing the first 5 overs data in every match**<br/>
 • **Converting the column 'date' from string into datetime object**<br/>
 • **Handling categorical features**
@@ -28,7 +24,9 @@ Evaluation metric: Root Mean Squared Error (RMSE)<br/>
 • **Adaptive Boosting (AdaBoost) - 15.798**
 
 ## Model Prediction
-![pred](readme-resources/prediction.PNG)<br/>
+![prediction](https://github.com/Ajij120386/Machine_Learning/assets/66430791/8772b3d3-a5d2-4b37-8ec9-7ce08fcd0a45)
+
+<br/>
 
 ## Future Scope
 • Add columns in dataset of top batsmen and bowlers of all the teams.<br/>
